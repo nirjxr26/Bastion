@@ -43,7 +43,7 @@
     "jsdom": "^29.1.1",
     "tailwindcss": "^4.2.1",
     "vite": "^7.3.5",
-    "vitest": "^4.1.9"
+    "vitest": "^4.1.11"
   },
   "overrides": {
     "esbuild": "0.28.1"
