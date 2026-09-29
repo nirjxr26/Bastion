@@ -68,12 +68,12 @@
   "devDependencies": {
     "@babel/preset-env": "^7.29.2",
     "@eslint/js": "^10.0.1",
-    "babel-jest": "^30.0.0",
+    "babel-jest": "^30.5.2",
     "eslint": "^10.4.0",
     "globals": "^17.6.0",
-    "jest": "^30.0.0",
+    "jest": "^30.5.2",
     "nodemon": "^3.1.14",
-    "supertest": "^7.2.2"
+    "supertest": "^7.3.0"
   },
   "overrides": {
     "defu": "6.1.5",
